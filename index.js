@@ -1,5 +1,5 @@
 // Write your solution here!
 const append = [];
 const prepend = [];
-const append = [];
+const removeLast = [];
 const append = [];
