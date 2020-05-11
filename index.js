@@ -2,4 +2,4 @@
 const append = [];
 const prepend = [];
 const removeLast = [];
-const append = [];
+const removeFirst= [];
